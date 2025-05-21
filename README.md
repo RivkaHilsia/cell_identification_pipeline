@@ -10,15 +10,12 @@ This repository contains a set of pipeline scripts used for whole slide image(WS
 - `pipeline4.py`: classification
 - `pipeline_config.py`: Shared configuration used in all scripts
 
-## Sample Run
-
-The folder `sample_run/` contains:
-
+## Sample_outputs
 - `sample_input.svs`: Example input file
 - `output_from_pipeline1.csv`: Output of pipeline1
 - `output_from_pipeline2.csv`: Output of pipeline2
 - `Output_from_pipeline3.npy`: Output from pipeline3
 - `Output_from_pipeline4.csv`: Output from pipeline4
-- `run_commands.py`: The terminal commands used to generate the outputs
+- `main_pipelines.py`: The terminal commands used to generate the outputs
 
 > This is for demonstration only; execution is not included.
