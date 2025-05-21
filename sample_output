@@ -1,0 +1,5 @@
+├── sample_input.svs
+├── output_from_pipeline1.csv    
+├── output_from_pipeline2.csv
+├── output_from_pipeline3.npy
+├── output_from_pipeline4.csv
