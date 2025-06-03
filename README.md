@@ -1,6 +1,6 @@
 # cell_identification_pipeline
 
-This repository contains a set of pipeline scripts used for whole slide image(WSI) analysis for the purpose of cell identification and classification, along with a sample run to demonstrate the expected input/output flow.
+This repository contains a set of pipeline scripts used for whole slide image(WSI) analysis for the purpose of cell identification and classification, along with a sample run to demonstrate the expected input/output flow. It includes all the processes from the breakdown of the wsi till the single cell images coordinates to traceback in the wsi image. It includes classification, detection, segmentation, vision transformers to build effecient models and feature extractions. 
 
 ## Scripts
 
