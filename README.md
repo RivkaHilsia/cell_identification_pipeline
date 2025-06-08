@@ -19,3 +19,6 @@ This repository contains a set of pipeline scripts used for whole slide image(WS
 - `main_pipelines.py`: The terminal commands used to generate the outputs
 
 > This is for demonstration only; execution is not included.
+
+
+##License of Rights to ben gurion university
